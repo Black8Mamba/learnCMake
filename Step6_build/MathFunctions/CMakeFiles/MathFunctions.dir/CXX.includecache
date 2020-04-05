@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/book/learnCMake/Step6/MathFunctions/mysqrt.cxx
+iostream
+-
+Table.h
+/home/book/learnCMake/Step6/MathFunctions/Table.h
+
+MathFunctions/Table.h
+
